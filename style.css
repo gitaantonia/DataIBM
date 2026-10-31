@@ -1,0 +1,151 @@
+/* =====================================================
+   style.css — Student Performance Dashboard
+   Pelengkap Tailwind CSS untuk animasi, scrollbar,
+   dan styling tambahan yang tidak dicakup utility.
+   ===================================================== */
+
+/* ── Smooth scroll global ── */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ── Custom scrollbar (Webkit) ── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #0d9488;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #0f766e;
+}
+
+/* ── KPI card lift on hover ── */
+.kpi-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(13, 148, 136, 0.12);
+}
+
+/* ── Chart card hover ── */
+.chart-card {
+  transition: box-shadow 0.2s ease;
+}
+.chart-card:hover {
+  box-shadow: 0 4px 16px rgba(13, 148, 136, 0.1);
+}
+
+/* ── Chart title style ── */
+.chart-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #334155;
+  margin-bottom: 0.5rem;
+}
+
+/* ── Chart container sizes ── */
+.chart-wrapper {
+  position: relative;
+  height: 280px;
+}
+.chart-wrapper-sm {
+  position: relative;
+  height: 240px;
+}
+
+/* ── Responsive chart height ── */
+@media (max-width: 640px) {
+  .chart-wrapper {
+    height: 220px;
+  }
+  .chart-wrapper-sm {
+    height: 200px;
+  }
+}
+
+/* ── Filter select focus ring ── */
+.filter-select:focus {
+  box-shadow: 0 0 0 3px rgba(13, 148, 136, 0.2);
+}
+
+/* ── Table striped rows ── */
+#tableTop10Body tr:nth-child(even) {
+  background-color: #f0fdfa;
+}
+#tableTop10Body tr {
+  transition: background-color 0.15s ease;
+}
+#tableTop10Body tr:hover {
+  background-color: #ccfbf1;
+}
+#tableTop10Body td {
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid #e2e8f0;
+  color: #334155;
+  font-size: 0.8125rem;
+}
+
+/* ── Rank badge in table ── */
+.rank-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+.rank-1 { background: #fef3c7; color: #92400e; }
+.rank-2 { background: #e2e8f0; color: #475569; }
+.rank-3 { background: #fde8d8; color: #9a3412; }
+.rank-other { background: #f0fdfa; color: #0f766e; }
+
+/* ── Score badge ── */
+.score-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 9999px;
+  font-weight: 700;
+  font-size: 0.8125rem;
+}
+.score-high  { background: #d1fae5; color: #065f46; }
+.score-mid   { background: #fef3c7; color: #92400e; }
+.score-low   { background: #fee2e2; color: #991b1b; }
+
+/* ── "Tidak ada data" empty state ── */
+.empty-state {
+  text-align: center;
+  padding: 2.5rem 1rem;
+  color: #94a3b8;
+  font-size: 0.875rem;
+}
+
+/* ── Insight box fade-in on update ── */
+#insightText {
+  transition: opacity 0.3s ease;
+}
+#insightText.fading {
+  opacity: 0;
+}
+
+/* ── Button reset ── */
+.btn-reset {
+  letter-spacing: 0.01em;
+}
+
+/* ── Responsive table text ── */
+@media (max-width: 480px) {
+  #tableTop10Body td,
+  #tableTop10 th {
+    font-size: 0.75rem;
+    padding: 0.5rem;
+  }
+}

@@ -1,0 +1,201 @@
+Student_ID,Student_Name,Gender,Major,Semester,Study_Method,Study_Hours_Per_Week,Attendance_Pct,Sleep_Hours,Extracurricular,Stress_Level,Midterm_Score,Final_Score
+STD-001,Yoga Saputra,Perempuan,Psikologi,8,Kursus Online,12,82,5.2,Tidak,Tinggi,57,57
+STD-002,Budi Saputra,Perempuan,Psikologi,1,Kursus Online,10,91,6.5,Tidak,Rendah,56,60
+STD-003,Siti Lestari,Laki-laki,Psikologi,8,Kelompok Belajar,12,82,6.7,Ya,Tinggi,66,64
+STD-004,Intan Saputra,Laki-laki,Desain Komunikasi Visual,5,Kursus Online,16,92,8.1,Ya,Sedang,65,71
+STD-005,Andi Nugroho,Laki-laki,Teknik Informatika,1,Belajar Mandiri,21,84,7.9,Tidak,Tinggi,63,63
+STD-006,Dimas Pratama,Laki-laki,Desain Komunikasi Visual,2,Kursus Online,15,84,5.5,Tidak,Tinggi,63,59
+STD-007,Rizky Kusuma,Perempuan,Akuntansi,7,Belajar Mandiri,27,85,7.9,Tidak,Sedang,73,75
+STD-008,Citra Nugroho,Laki-laki,Manajemen,3,Belajar Mandiri,14,100,6.2,Ya,Tinggi,66,64
+STD-009,Nadia Pratama,Laki-laki,Manajemen,8,Belajar Mandiri,5,76,7.2,Tidak,Sedang,49,48
+STD-010,Citra Lestari,Perempuan,Akuntansi,4,Belajar Mandiri,10,92,6.9,Ya,Sedang,48,50
+STD-011,Rafi Aditya,Laki-laki,Sistem Informasi,8,Bimbingan Tutor,19,98,7.3,Tidak,Sedang,69,77
+STD-012,Bagas Lestari,Laki-laki,Desain Komunikasi Visual,1,Belajar Mandiri,11,89,7.4,Tidak,Rendah,59,61
+STD-013,Rizky Hidayat,Perempuan,Desain Komunikasi Visual,3,Kursus Online,21,80,6.1,Ya,Tinggi,58,61
+STD-014,Budi Ramadhan,Laki-laki,Sistem Informasi,2,Belajar Mandiri,6,81,7.9,Tidak,Rendah,42,55
+STD-015,Aulia Rahma,Perempuan,Akuntansi,7,Bimbingan Tutor,22,87,8.1,Ya,Sedang,72,74
+STD-016,Budi Nugroho,Perempuan,Teknik Informatika,7,Belajar Mandiri,8,94,5.7,Tidak,Sedang,61,59
+STD-017,Andi Aditya,Perempuan,Manajemen,4,Kelompok Belajar,23,95,6.0,Tidak,Tinggi,67,67
+STD-018,Hendra Santoso,Perempuan,Akuntansi,8,Belajar Mandiri,15,94,6.6,Tidak,Tinggi,51,56
+STD-019,Fajar Kusuma,Laki-laki,Teknik Informatika,4,Bimbingan Tutor,4,85,7.5,Tidak,Rendah,54,53
+STD-020,Yoga Hidayat,Laki-laki,Sistem Informasi,7,Belajar Mandiri,6,83,6.2,Tidak,Rendah,51,45
+STD-021,Bagas Permata,Laki-laki,Teknik Informatika,6,Kursus Online,15,83,7.3,Ya,Tinggi,55,60
+STD-022,Rizky Pratama,Perempuan,Desain Komunikasi Visual,2,Belajar Mandiri,9,71,8.1,Ya,Rendah,48,50
+STD-023,Andi Hidayat,Laki-laki,Manajemen,4,Belajar Mandiri,10,96,5.2,Tidak,Tinggi,48,45
+STD-024,Nadia Rahma,Laki-laki,Sistem Informasi,7,Bimbingan Tutor,7,89,7.4,Tidak,Rendah,57,65
+STD-025,Dimas Hidayat,Perempuan,Sistem Informasi,2,Bimbingan Tutor,19,73,6.5,Tidak,Sedang,74,78
+STD-026,Laras Wijaya,Laki-laki,Sistem Informasi,1,Kursus Online,21,90,5.0,Tidak,Tinggi,71,71
+STD-027,Budi Kusuma,Perempuan,Psikologi,6,Belajar Mandiri,21,80,8.7,Tidak,Rendah,61,68
+STD-028,Salsa Permata,Laki-laki,Desain Komunikasi Visual,4,Belajar Mandiri,4,79,6.0,Tidak,Rendah,45,49
+STD-029,Rafi Permata,Perempuan,Teknik Informatika,5,Kursus Online,17,96,5.2,Ya,Tinggi,62,65
+STD-030,Rafi Saputra,Laki-laki,Psikologi,8,Kelompok Belajar,22,100,4.4,Tidak,Tinggi,64,64
+STD-031,Salsa Santoso,Perempuan,Sistem Informasi,8,Bimbingan Tutor,20,91,7.4,Tidak,Sedang,71,73
+STD-032,Rizky Lestari,Laki-laki,Teknik Informatika,6,Belajar Mandiri,8,85,4.9,Tidak,Sedang,36,46
+STD-033,Intan Pratama,Perempuan,Sistem Informasi,3,Kelompok Belajar,20,77,6.7,Tidak,Tinggi,57,60
+STD-034,Aulia Santoso,Laki-laki,Sistem Informasi,4,Belajar Mandiri,28,85,7.1,Tidak,Tinggi,70,70
+STD-035,Rafi Nugroho,Perempuan,Akuntansi,4,Belajar Mandiri,8,98,5.6,Tidak,Tinggi,51,38
+STD-036,Fajar Rahma,Laki-laki,Manajemen,8,Belajar Mandiri,17,91,8.2,Tidak,Rendah,67,68
+STD-037,Yoga Rahma,Laki-laki,Akuntansi,8,Belajar Mandiri,12,90,5.6,Ya,Tinggi,55,52
+STD-038,Aulia Ramadhan,Laki-laki,Sistem Informasi,3,Bimbingan Tutor,16,77,8.3,Tidak,Sedang,68,76
+STD-039,Ilham Permata,Perempuan,Teknik Informatika,6,Kelompok Belajar,14,100,6.5,Tidak,Rendah,59,55
+STD-040,Laras Ramadhan,Laki-laki,Sistem Informasi,3,Kelompok Belajar,15,82,6.0,Ya,Tinggi,57,53
+STD-041,Citra Pratama,Laki-laki,Teknik Informatika,5,Bimbingan Tutor,11,75,5.6,Tidak,Tinggi,39,47
+STD-042,Andi Rahma,Laki-laki,Manajemen,5,Kursus Online,5,85,6.5,Ya,Rendah,54,51
+STD-043,Laras Saputra,Perempuan,Sistem Informasi,2,Kelompok Belajar,16,82,5.2,Ya,Tinggi,56,59
+STD-044,Salsa Saputra,Laki-laki,Manajemen,8,Belajar Mandiri,7,83,6.1,Tidak,Tinggi,40,44
+STD-045,Putri Pratama,Perempuan,Teknik Informatika,1,Belajar Mandiri,7,92,7.4,Ya,Rendah,40,46
+STD-046,Dimas Rahma,Laki-laki,Psikologi,8,Belajar Mandiri,15,82,8.1,Tidak,Sedang,79,71
+STD-047,Nadia Permata,Laki-laki,Akuntansi,7,Belajar Mandiri,16,88,6.1,Ya,Tinggi,45,52
+STD-048,Bagas Nugroho,Perempuan,Manajemen,3,Kelompok Belajar,15,78,8.2,Tidak,Tinggi,53,58
+STD-049,Ilham Ramadhan,Laki-laki,Manajemen,4,Kelompok Belajar,15,100,8.4,Ya,Rendah,73,74
+STD-050,Dewi Lestari,Perempuan,Manajemen,2,Belajar Mandiri,17,91,7.7,Ya,Rendah,66,63
+STD-051,Rizky Rahma,Laki-laki,Psikologi,4,Kelompok Belajar,15,76,6.9,Tidak,Tinggi,52,56
+STD-052,Maya Kusuma,Perempuan,Akuntansi,8,Kelompok Belajar,17,87,5.5,Tidak,Tinggi,61,55
+STD-053,Budi Aditya,Perempuan,Teknik Informatika,2,Kursus Online,5,86,5.6,Ya,Tinggi,37,43
+STD-054,Dewi Wijaya,Laki-laki,Akuntansi,5,Kelompok Belajar,17,78,6.2,Tidak,Tinggi,55,59
+STD-055,Aulia Wijaya,Perempuan,Teknik Informatika,7,Kursus Online,15,76,6.2,Tidak,Tinggi,55,55
+STD-056,Yoga Aditya,Perempuan,Psikologi,1,Belajar Mandiri,2,75,5.5,Ya,Rendah,30,35
+STD-057,Budi Wijaya,Laki-laki,Teknik Informatika,6,Kursus Online,13,81,6.6,Ya,Rendah,65,59
+STD-058,Hendra Wijaya,Perempuan,Akuntansi,6,Belajar Mandiri,13,89,4.8,Ya,Tinggi,45,48
+STD-059,Aulia Pratama,Perempuan,Psikologi,8,Kursus Online,10,77,6.2,Ya,Rendah,52,53
+STD-060,Maya Nugroho,Laki-laki,Sistem Informasi,4,Belajar Mandiri,10,84,7.5,Tidak,Rendah,56,55
+STD-061,Maya Pratama,Perempuan,Akuntansi,8,Belajar Mandiri,18,86,6.9,Ya,Tinggi,47,56
+STD-062,Nadia Hidayat,Perempuan,Teknik Informatika,3,Belajar Mandiri,23,80,7.8,Tidak,Rendah,60,62
+STD-063,Dimas Nugroho,Perempuan,Manajemen,8,Bimbingan Tutor,12,89,7.8,Tidak,Tinggi,55,65
+STD-064,Siti Nugroho,Perempuan,Desain Komunikasi Visual,8,Bimbingan Tutor,11,87,4.8,Ya,Tinggi,50,55
+STD-065,Citra Aditya,Laki-laki,Manajemen,3,Belajar Mandiri,20,69,6.8,Ya,Sedang,57,61
+STD-066,Salsa Ramadhan,Laki-laki,Manajemen,5,Bimbingan Tutor,16,90,5.9,Ya,Rendah,70,71
+STD-067,Putri Wijaya,Perempuan,Sistem Informasi,5,Belajar Mandiri,14,82,7.1,Tidak,Sedang,45,54
+STD-068,Dewi Nugroho,Laki-laki,Sistem Informasi,8,Kursus Online,9,81,9,Tidak,Rendah,66,61
+STD-069,Putri Nugroho,Perempuan,Sistem Informasi,5,Kelompok Belajar,15,74,7.2,Ya,Sedang,65,64
+STD-070,Rafi Rahma,Perempuan,Teknik Informatika,3,Kelompok Belajar,14,80,5.0,Tidak,Tinggi,56,56
+STD-071,Maya Rahma,Perempuan,Sistem Informasi,6,Kursus Online,9,90,5.6,Tidak,Rendah,52,51
+STD-072,Intan Permata,Perempuan,Teknik Informatika,6,Kelompok Belajar,17,72,6.4,Ya,Tinggi,56,52
+STD-073,Dewi Saputra,Perempuan,Sistem Informasi,5,Kelompok Belajar,12,82,6.8,Tidak,Rendah,58,55
+STD-074,Rizky Permata,Perempuan,Akuntansi,4,Bimbingan Tutor,24,87,6.7,Tidak,Tinggi,65,65
+STD-075,Bagas Hidayat,Laki-laki,Psikologi,3,Kelompok Belajar,8,80,8.6,Ya,Rendah,46,59
+STD-076,Dimas Permata,Laki-laki,Teknik Informatika,1,Bimbingan Tutor,19,81,4.9,Ya,Tinggi,55,58
+STD-077,Siti Kusuma,Laki-laki,Teknik Informatika,3,Bimbingan Tutor,10,72,5.6,Tidak,Tinggi,51,53
+STD-078,Yoga Pratama,Laki-laki,Teknik Informatika,7,Belajar Mandiri,10,84,5.8,Tidak,Sedang,58,58
+STD-079,Dewi Hidayat,Perempuan,Sistem Informasi,7,Bimbingan Tutor,2,88,7.6,Ya,Rendah,49,48
+STD-080,Hendra Saputra,Perempuan,Sistem Informasi,6,Bimbingan Tutor,13,97,5.7,Ya,Tinggi,51,63
+STD-081,Budi Lestari,Perempuan,Teknik Informatika,7,Kelompok Belajar,12,86,7.7,Tidak,Rendah,64,70
+STD-082,Aulia Saputra,Perempuan,Sistem Informasi,4,Kursus Online,12,87,7.7,Ya,Sedang,59,65
+STD-083,Putri Lestari,Laki-laki,Akuntansi,3,Belajar Mandiri,24,75,5.8,Tidak,Tinggi,58,60
+STD-084,Dimas Aditya,Perempuan,Sistem Informasi,8,Belajar Mandiri,18,100,6.5,Ya,Sedang,62,72
+STD-085,Andi Santoso,Perempuan,Akuntansi,4,Kursus Online,16,100,8.0,Ya,Rendah,58,72
+STD-086,Bagas Kusuma,Laki-laki,Akuntansi,8,Belajar Mandiri,21,100,7.7,Ya,Tinggi,57,65
+STD-087,Putri Aditya,Perempuan,Sistem Informasi,2,Kursus Online,16,93,7.9,Ya,Rendah,61,65
+STD-088,Budi Hidayat,Laki-laki,Desain Komunikasi Visual,1,Belajar Mandiri,9,79,5.5,Ya,Tinggi,48,50
+STD-089,Maya Aditya,Perempuan,Akuntansi,3,Belajar Mandiri,22,87,6.6,Tidak,Sedang,59,61
+STD-090,Laras Nugroho,Perempuan,Desain Komunikasi Visual,8,Belajar Mandiri,8,84,7.5,Tidak,Rendah,54,57
+STD-091,Citra Kusuma,Perempuan,Teknik Informatika,5,Kelompok Belajar,16,79,5.9,Tidak,Tinggi,53,55
+STD-092,Citra Ramadhan,Laki-laki,Teknik Informatika,3,Kelompok Belajar,9,77,7.0,Tidak,Rendah,52,55
+STD-093,Dewi Santoso,Perempuan,Manajemen,4,Kelompok Belajar,21,88,6.0,Tidak,Rendah,60,70
+STD-094,Salsa Rahma,Laki-laki,Akuntansi,7,Kelompok Belajar,20,97,7.5,Ya,Rendah,67,66
+STD-095,Fajar Ramadhan,Perempuan,Desain Komunikasi Visual,8,Belajar Mandiri,12,82,6.6,Tidak,Rendah,59,61
+STD-096,Laras Aditya,Perempuan,Manajemen,1,Bimbingan Tutor,12,61,6.0,Ya,Sedang,52,58
+STD-097,Aulia Aditya,Laki-laki,Sistem Informasi,4,Bimbingan Tutor,8,92,7.5,Tidak,Rendah,58,65
+STD-098,Maya Hidayat,Laki-laki,Psikologi,4,Bimbingan Tutor,16,79,6.2,Tidak,Tinggi,64,63
+STD-099,Fajar Permata,Perempuan,Manajemen,8,Belajar Mandiri,12,81,5.4,Ya,Tinggi,53,54
+STD-100,Andi Saputra,Perempuan,Teknik Informatika,7,Belajar Mandiri,13,80,6.9,Tidak,Sedang,51,56
+STD-101,Nadia Ramadhan,Perempuan,Psikologi,6,Belajar Mandiri,4,90,6.0,Tidak,Sedang,42,48
+STD-102,Salsa Pratama,Laki-laki,Teknik Informatika,3,Kelompok Belajar,13,94,6.1,Tidak,Sedang,66,60
+STD-103,Rafi Santoso,Laki-laki,Psikologi,8,Kursus Online,6,97,6.7,Ya,Sedang,56,57
+STD-104,Andi Ramadhan,Perempuan,Akuntansi,5,Kelompok Belajar,26,92,5.7,Ya,Tinggi,62,69
+STD-105,Bagas Rahma,Laki-laki,Psikologi,8,Belajar Mandiri,11,90,5.8,Ya,Tinggi,50,49
+STD-106,Maya Wijaya,Perempuan,Akuntansi,2,Belajar Mandiri,24,76,5.8,Tidak,Tinggi,63,55
+STD-107,Putri Hidayat,Laki-laki,Akuntansi,2,Bimbingan Tutor,8,100,5.9,Tidak,Sedang,63,60
+STD-108,Citra Wijaya,Perempuan,Desain Komunikasi Visual,4,Belajar Mandiri,9,76,5.7,Ya,Tinggi,41,52
+STD-109,Rafi Kusuma,Laki-laki,Teknik Informatika,5,Belajar Mandiri,4,100,7.0,Ya,Rendah,45,50
+STD-110,Rafi Pratama,Perempuan,Teknik Informatika,2,Kelompok Belajar,4,79,7.5,Ya,Rendah,49,54
+STD-111,Maya Lestari,Perempuan,Psikologi,8,Belajar Mandiri,13,94,5.6,Tidak,Tinggi,47,53
+STD-112,Maya Saputra,Perempuan,Akuntansi,2,Bimbingan Tutor,19,80,7.3,Tidak,Rendah,73,73
+STD-113,Intan Hidayat,Laki-laki,Teknik Informatika,7,Belajar Mandiri,11,79,6.3,Tidak,Rendah,58,54
+STD-114,Intan Nugroho,Perempuan,Akuntansi,5,Kelompok Belajar,19,91,6.2,Ya,Sedang,70,71
+STD-115,Rizky Aditya,Laki-laki,Akuntansi,7,Kelompok Belajar,14,81,8.5,Tidak,Tinggi,62,60
+STD-116,Laras Rahma,Laki-laki,Sistem Informasi,8,Bimbingan Tutor,21,89,7.6,Ya,Rendah,65,72
+STD-117,Fajar Saputra,Laki-laki,Sistem Informasi,8,Kursus Online,26,98,6.6,Ya,Tinggi,71,72
+STD-118,Dimas Lestari,Perempuan,Teknik Informatika,5,Belajar Mandiri,15,86,6.7,Ya,Rendah,57,57
+STD-119,Intan Wijaya,Laki-laki,Psikologi,1,Belajar Mandiri,7,74,6.6,Ya,Sedang,57,50
+STD-120,Siti Santoso,Perempuan,Psikologi,2,Bimbingan Tutor,15,87,6.3,Tidak,Sedang,64,67
+STD-121,Hendra Aditya,Laki-laki,Psikologi,8,Kursus Online,19,69,6.9,Ya,Rendah,64,68
+STD-122,Intan Aditya,Perempuan,Desain Komunikasi Visual,1,Kelompok Belajar,16,94,5.6,Tidak,Tinggi,59,56
+STD-123,Dewi Aditya,Laki-laki,Sistem Informasi,4,Kursus Online,18,91,6.9,Ya,Tinggi,61,61
+STD-124,Andi Pratama,Laki-laki,Sistem Informasi,2,Belajar Mandiri,2,80,7.2,Ya,Tinggi,39,43
+STD-125,Dimas Kusuma,Laki-laki,Manajemen,8,Bimbingan Tutor,14,80,6.4,Tidak,Tinggi,59,58
+STD-126,Citra Permata,Perempuan,Sistem Informasi,7,Kelompok Belajar,12,83,7.4,Tidak,Rendah,51,57
+STD-127,Nadia Kusuma,Perempuan,Manajemen,1,Kelompok Belajar,10,87,6.9,Ya,Sedang,52,55
+STD-128,Bagas Ramadhan,Perempuan,Manajemen,8,Belajar Mandiri,5,95,8.7,Tidak,Sedang,66,58
+STD-129,Bagas Aditya,Laki-laki,Teknik Informatika,6,Bimbingan Tutor,17,76,4.6,Ya,Tinggi,59,54
+STD-130,Budi Rahma,Perempuan,Manajemen,8,Kursus Online,21,90,8.5,Tidak,Sedang,87,84
+STD-131,Siti Wijaya,Laki-laki,Desain Komunikasi Visual,5,Belajar Mandiri,17,93,7.4,Tidak,Rendah,83,79
+STD-132,Dimas Ramadhan,Laki-laki,Desain Komunikasi Visual,7,Kelompok Belajar,19,72,8.0,Tidak,Rendah,68,67
+STD-133,Rizky Santoso,Laki-laki,Akuntansi,3,Kelompok Belajar,15,93,6.0,Ya,Sedang,63,64
+STD-134,Intan Lestari,Laki-laki,Teknik Informatika,7,Kelompok Belajar,11,80,6.9,Ya,Sedang,49,51
+STD-135,Yoga Lestari,Perempuan,Desain Komunikasi Visual,7,Belajar Mandiri,13,86,5.9,Ya,Tinggi,55,58
+STD-136,Andi Kusuma,Laki-laki,Sistem Informasi,5,Kelompok Belajar,15,89,7.8,Ya,Rendah,55,62
+STD-137,Ilham Nugroho,Perempuan,Akuntansi,1,Bimbingan Tutor,16,88,7.2,Tidak,Tinggi,58,61
+STD-138,Nadia Nugroho,Laki-laki,Manajemen,1,Belajar Mandiri,9,87,6.2,Tidak,Rendah,58,55
+STD-139,Rizky Saputra,Laki-laki,Sistem Informasi,2,Kursus Online,24,81,7.1,Tidak,Rendah,73,76
+STD-140,Dewi Kusuma,Perempuan,Manajemen,6,Belajar Mandiri,16,84,5.9,Tidak,Tinggi,67,63
+STD-141,Putri Saputra,Laki-laki,Manajemen,4,Belajar Mandiri,21,91,6.1,Ya,Tinggi,61,62
+STD-142,Yoga Santoso,Perempuan,Manajemen,2,Kelompok Belajar,12,85,6.0,Tidak,Sedang,62,66
+STD-143,Andi Lestari,Laki-laki,Teknik Informatika,7,Kursus Online,14,85,7.3,Tidak,Sedang,44,54
+STD-144,Bagas Saputra,Perempuan,Teknik Informatika,6,Bimbingan Tutor,20,100,6.1,Tidak,Tinggi,67,70
+STD-145,Nadia Wijaya,Laki-laki,Teknik Informatika,7,Kursus Online,9,89,8.4,Ya,Rendah,49,52
+STD-146,Rafi Lestari,Laki-laki,Akuntansi,1,Kursus Online,11,86,6.6,Ya,Rendah,49,44
+STD-147,Ilham Wijaya,Perempuan,Desain Komunikasi Visual,6,Belajar Mandiri,18,100,7.2,Ya,Sedang,61,68
+STD-148,Aulia Kusuma,Laki-laki,Teknik Informatika,2,Kelompok Belajar,26,83,6.2,Tidak,Tinggi,60,69
+STD-149,Siti Hidayat,Perempuan,Teknik Informatika,3,Kelompok Belajar,14,84,8.1,Tidak,Rendah,69,71
+STD-150,Budi Santoso,Laki-laki,Psikologi,3,Kelompok Belajar,9,88,7.2,Tidak,Sedang,61,62
+STD-151,Aulia Nugroho,Laki-laki,Psikologi,2,Kursus Online,12,73,8.1,Ya,Sedang,59,59
+STD-152,Intan Kusuma,Perempuan,Teknik Informatika,8,Kursus Online,13,77,6.7,Tidak,Rendah,63,59
+STD-153,Fajar Pratama,Laki-laki,Sistem Informasi,6,Belajar Mandiri,18,72,5.3,Tidak,Tinggi,48,53
+STD-154,Rafi Wijaya,Laki-laki,Teknik Informatika,5,Kelompok Belajar,13,86,8.2,Ya,Rendah,64,63
+STD-155,Citra Rahma,Laki-laki,Manajemen,8,Bimbingan Tutor,18,89,5.5,Tidak,Sedang,87,76
+STD-156,Aulia Permata,Laki-laki,Teknik Informatika,8,Kelompok Belajar,25,80,6.8,Tidak,Tinggi,69,68
+STD-157,Dimas Wijaya,Perempuan,Teknik Informatika,5,Kursus Online,23,63,7.3,Ya,Tinggi,60,67
+STD-158,Laras Santoso,Laki-laki,Sistem Informasi,1,Belajar Mandiri,14,96,7.0,Tidak,Rendah,59,66
+STD-159,Laras Lestari,Perempuan,Manajemen,6,Kursus Online,22,81,5.8,Ya,Tinggi,63,66
+STD-160,Ilham Rahma,Perempuan,Teknik Informatika,6,Belajar Mandiri,23,90,6.8,Tidak,Tinggi,69,72
+STD-161,Hendra Nugroho,Perempuan,Teknik Informatika,6,Kelompok Belajar,26,77,7.0,Ya,Tinggi,64,67
+STD-162,Bagas Wijaya,Perempuan,Teknik Informatika,3,Belajar Mandiri,28,79,8.1,Ya,Rendah,64,66
+STD-163,Siti Rahma,Laki-laki,Teknik Informatika,1,Kursus Online,17,90,5.1,Tidak,Sedang,55,59
+STD-164,Nadia Aditya,Perempuan,Teknik Informatika,6,Belajar Mandiri,10,95,7.5,Ya,Rendah,62,59
+STD-165,Citra Saputra,Laki-laki,Manajemen,1,Kelompok Belajar,16,93,5.8,Tidak,Tinggi,55,63
+STD-166,Hendra Lestari,Laki-laki,Sistem Informasi,3,Belajar Mandiri,7,100,7.6,Ya,Rendah,49,59
+STD-167,Laras Permata,Laki-laki,Desain Komunikasi Visual,1,Belajar Mandiri,30,90,6.1,Ya,Tinggi,78,75
+STD-168,Dimas Santoso,Perempuan,Desain Komunikasi Visual,6,Belajar Mandiri,16,90,5.7,Tidak,Rendah,62,66
+STD-169,Maya Ramadhan,Laki-laki,Sistem Informasi,5,Belajar Mandiri,11,81,4.8,Ya,Tinggi,43,49
+STD-170,Citra Hidayat,Laki-laki,Sistem Informasi,8,Bimbingan Tutor,20,100,6.8,Tidak,Tinggi,68,69
+STD-171,Salsa Aditya,Laki-laki,Manajemen,6,Belajar Mandiri,8,79,5.4,Ya,Tinggi,48,52
+STD-172,Putri Santoso,Laki-laki,Desain Komunikasi Visual,7,Belajar Mandiri,20,83,7.9,Ya,Tinggi,55,59
+STD-173,Salsa Kusuma,Laki-laki,Sistem Informasi,8,Kelompok Belajar,11,97,7.1,Ya,Sedang,58,60
+STD-174,Bagas Pratama,Laki-laki,Teknik Informatika,1,Kursus Online,21,79,5.5,Tidak,Tinggi,52,54
+STD-175,Rizky Nugroho,Perempuan,Teknik Informatika,5,Kursus Online,16,80,6.9,Ya,Rendah,58,61
+STD-176,Bagas Santoso,Perempuan,Manajemen,5,Kursus Online,13,82,6.5,Tidak,Sedang,49,60
+STD-177,Andi Permata,Laki-laki,Sistem Informasi,8,Kelompok Belajar,15,83,7.5,Tidak,Rendah,69,64
+STD-178,Dewi Ramadhan,Laki-laki,Teknik Informatika,8,Kelompok Belajar,18,97,5.7,Ya,Rendah,68,75
+STD-179,Laras Pratama,Laki-laki,Manajemen,4,Kursus Online,20,81,5.7,Ya,Tinggi,62,65
+STD-180,Laras Kusuma,Perempuan,Teknik Informatika,8,Bimbingan Tutor,21,90,5.6,Tidak,Tinggi,56,69
+STD-181,Ilham Saputra,Laki-laki,Sistem Informasi,2,Belajar Mandiri,15,82,7.3,Ya,Tinggi,45,55
+STD-182,Siti Ramadhan,Perempuan,Teknik Informatika,2,Belajar Mandiri,17,91,7.6,Ya,Rendah,57,57
+STD-183,Ilham Santoso,Laki-laki,Teknik Informatika,7,Kelompok Belajar,20,89,6.1,Tidak,Tinggi,59,66
+STD-184,Hendra Permata,Laki-laki,Sistem Informasi,4,Belajar Mandiri,17,71,5.7,Ya,Tinggi,47,48
+STD-185,Yoga Ramadhan,Perempuan,Manajemen,8,Bimbingan Tutor,12,75,7.3,Tidak,Rendah,64,64
+STD-186,Yoga Kusuma,Perempuan,Teknik Informatika,2,Belajar Mandiri,20,84,6.6,Ya,Tinggi,54,60
+STD-187,Hendra Pratama,Laki-laki,Sistem Informasi,8,Kelompok Belajar,24,78,5.4,Tidak,Tinggi,67,71
+STD-188,Dewi Permata,Perempuan,Teknik Informatika,8,Kelompok Belajar,20,83,6.6,Ya,Sedang,54,63
+STD-189,Fajar Santoso,Perempuan,Teknik Informatika,1,Bimbingan Tutor,14,95,6.5,Tidak,Sedang,61,66
+STD-190,Fajar Hidayat,Perempuan,Akuntansi,5,Belajar Mandiri,19,84,6.8,Ya,Tinggi,60,63
+STD-191,Maya Santoso,Laki-laki,Desain Komunikasi Visual,3,Kursus Online,11,80,6.7,Tidak,Rendah,53,55
+STD-192,Citra Santoso,Perempuan,Manajemen,3,Belajar Mandiri,12,94,6.3,Ya,Tinggi,54,53
+STD-193,Andi Wijaya,Laki-laki,Sistem Informasi,5,Kelompok Belajar,16,88,6.3,Tidak,Sedang,62,71
+STD-194,Putri Kusuma,Laki-laki,Teknik Informatika,8,Kursus Online,19,100,7.4,Tidak,Rendah,61,69
+STD-195,Rafi Ramadhan,Perempuan,Akuntansi,7,Belajar Mandiri,13,84,6.5,Tidak,Sedang,59,55
+STD-196,Yoga Nugroho,Laki-laki,Manajemen,1,Belajar Mandiri,13,65,6.0,Ya,Sedang,63,56
+STD-197,Hendra Rahma,Perempuan,Desain Komunikasi Visual,4,Belajar Mandiri,13,70,6.8,Tidak,Sedang,58,57
+STD-198,Siti Permata,Laki-laki,Sistem Informasi,5,Bimbingan Tutor,11,78,6.4,Tidak,Sedang,58,57
+STD-199,Ilham Kusuma,Laki-laki,Teknik Informatika,2,Belajar Mandiri,21,84,6.3,Tidak,Tinggi,59,63
+STD-200,Salsa Nugroho,Laki-laki,Akuntansi,4,Kelompok Belajar,13,85,4.1,Ya,Tinggi,47,47
